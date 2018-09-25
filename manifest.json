@@ -3,7 +3,7 @@
  "short_name": "Future Imp.",
  "description": "A demo site transforming a regular web site into a PWA",
  "lang": "en-US",
- "start_url": "/",
+ "start_url": "./",
  "display": "fullscreen",
  "orientation": "any",
  "theme_color": "#005A9C",
